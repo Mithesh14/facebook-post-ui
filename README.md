@@ -3,7 +3,7 @@
 
 # Project link
 
-<a href="https://mithesh14.github.io/Github-profile/">Facebook post</a>
+<a href="https://mithesh14.github.io/facebook-post-ui/">Facebook post</a>
 
 # Screenshot
 
